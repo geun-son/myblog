@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Test blog
+title: 테스트 블로그
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   이 사이트를 잘 표현할 수 있는 멋진 문구를 적어 보세요. _config.yml에서 문구를 수정할 수 있어요. 
